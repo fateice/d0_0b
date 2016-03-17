@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/time_row" android:orientation="horizontal"
+    android:layout_width="fill_parent" android:layout_height="wrap_content"
+    android:gravity="center" android:paddingLeft="10dp"
+    android:paddingRight="10dp" android:paddingBottom="20dp"
+    android:paddingTop="20dp">
+
+    <TextView android:id="@+id/lap_name" android:layout_height="wrap_content"
+        android:text="button get" android:layout_weight="1" android:layout_width="0dp" />
+
+
+</LinearLayout>
